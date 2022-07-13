@@ -1,7 +1,7 @@
 ### E ai! Eu sou Ricardo 🚀
 
-😎 Estudo e trabalho com Front-end
-<div align="center">
+  😎 Estudo e trabalho com Front-end
+<div align="center" style = "display= inline_block">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Matheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Matheus&layout=compact&langs_count=7&theme=dracula"/>
