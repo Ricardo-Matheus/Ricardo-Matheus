@@ -1,6 +1,6 @@
 ### E ai! Eu sou Ricardo   🚀
 
-  😎 Estudo e trabalho com Front-end
+#### 😎 Estudante de Front-end
 <div>
   <a href="https://github.com/Ricardo-Matheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Matheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
