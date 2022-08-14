@@ -1,4 +1,4 @@
-### E ai! Eu sou Ricardo | Estudante de Front-end 🚀
+### Ricardo Matheus - desenvolvedor Front-end 🚀
  
 <div>
   <a href="https://github.com/Ricardo-Matheus">
